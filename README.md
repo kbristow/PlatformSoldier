@@ -1,7 +1,7 @@
 PlatformSoldier
 ===============
 
-Game made using LGE game engine. Used for development of the Engine and testing purposes
+Interactive scenario made using LGE game engine. Used for development of the Engine and testing parts of the engine.
 
 
 Usage
@@ -11,3 +11,7 @@ component in running the game. Check out both PlatformSoldier and the LGE game e
 both repositories to a workspace and import them into Eclipse. To run the game, open the desktop libGDX 
 folder and find main in the src folder. Right click main and choose Run As Java application. You may need to
 select an android version in your settings before being able to compile.
+
+Note
+===============
+This is out of date with libgdx and not maintained or developed further. It was done for entertainment and as a learning experience which will be kept up on GitHub for reference purposes.
